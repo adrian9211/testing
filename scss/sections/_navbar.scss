@@ -1,0 +1,28 @@
+@use '../custom' as*;
+
+
+.menu{
+    background:linear-gradient(to right,rgba($yellow,0.95),rgba($teal,0.95));
+}
+
+li{
+    font-family: 'Handlee', cursive;
+    padding:0 0.7em;
+
+}
+
+.dropdown ul{
+    background:linear-gradient(to right,rgba($teal,0.95),rgba($green,0.95));
+
+}
+
+
+
+
+.nav-link li{
+    color: rgb(164, 141, 114);
+}
+
+.nav-link .ul li{
+    color: rgba(226, 45, 45, 0.925);
+}
